@@ -1,0 +1,15 @@
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\bin\Debug\net7.0\5_ktora_wieksza.exe
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\bin\Debug\net7.0\5_ktora_wieksza.deps.json
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\bin\Debug\net7.0\5_ktora_wieksza.runtimeconfig.json
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\bin\Debug\net7.0\5_ktora_wieksza.dll
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\bin\Debug\net7.0\5_ktora_wieksza.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\obj\Debug\net7.0\5_ktora_wieksza.csproj.AssemblyReference.cache
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\obj\Debug\net7.0\5_ktora_wieksza.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\obj\Debug\net7.0\5_ktora_wieksza.AssemblyInfoInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\obj\Debug\net7.0\5_ktora_wieksza.AssemblyInfo.cs
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\obj\Debug\net7.0\5_ktora_wieksza.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\obj\Debug\net7.0\5_ktora_wieksza.dll
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\obj\Debug\net7.0\refint\5_ktora_wieksza.dll
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\obj\Debug\net7.0\5_ktora_wieksza.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\obj\Debug\net7.0\5_ktora_wieksza.genruntimeconfig.cache
+D:\Informatyka\C#\srednia_arytmetyczna\5_ktora_wieksza\obj\Debug\net7.0\ref\5_ktora_wieksza.dll

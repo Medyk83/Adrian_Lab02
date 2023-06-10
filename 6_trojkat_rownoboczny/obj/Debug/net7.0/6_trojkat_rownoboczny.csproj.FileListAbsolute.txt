@@ -1,0 +1,15 @@
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\bin\Debug\net7.0\6_trojkat_rownoboczny.exe
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\bin\Debug\net7.0\6_trojkat_rownoboczny.deps.json
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\bin\Debug\net7.0\6_trojkat_rownoboczny.runtimeconfig.json
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\bin\Debug\net7.0\6_trojkat_rownoboczny.dll
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\bin\Debug\net7.0\6_trojkat_rownoboczny.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\obj\Debug\net7.0\6_trojkat_rownoboczny.csproj.AssemblyReference.cache
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\obj\Debug\net7.0\6_trojkat_rownoboczny.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\obj\Debug\net7.0\6_trojkat_rownoboczny.AssemblyInfoInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\obj\Debug\net7.0\6_trojkat_rownoboczny.AssemblyInfo.cs
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\obj\Debug\net7.0\6_trojkat_rownoboczny.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\obj\Debug\net7.0\6_trojkat_rownoboczny.dll
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\obj\Debug\net7.0\refint\6_trojkat_rownoboczny.dll
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\obj\Debug\net7.0\6_trojkat_rownoboczny.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\obj\Debug\net7.0\6_trojkat_rownoboczny.genruntimeconfig.cache
+D:\Informatyka\C#\srednia_arytmetyczna\6_trojkat_rownoboczny\obj\Debug\net7.0\ref\6_trojkat_rownoboczny.dll

@@ -1,0 +1,15 @@
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\bin\Debug\net7.0\1_srednia_arytmetyczna.exe
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\bin\Debug\net7.0\1_srednia_arytmetyczna.deps.json
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\bin\Debug\net7.0\1_srednia_arytmetyczna.runtimeconfig.json
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\bin\Debug\net7.0\1_srednia_arytmetyczna.dll
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\bin\Debug\net7.0\1_srednia_arytmetyczna.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\obj\Debug\net7.0\1_srednia_arytmetyczna.csproj.AssemblyReference.cache
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\obj\Debug\net7.0\1_srednia_arytmetyczna.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\obj\Debug\net7.0\1_srednia_arytmetyczna.AssemblyInfoInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\obj\Debug\net7.0\1_srednia_arytmetyczna.AssemblyInfo.cs
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\obj\Debug\net7.0\1_srednia_arytmetyczna.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\obj\Debug\net7.0\1_srednia_arytmetyczna.dll
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\obj\Debug\net7.0\refint\1_srednia_arytmetyczna.dll
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\obj\Debug\net7.0\1_srednia_arytmetyczna.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\obj\Debug\net7.0\1_srednia_arytmetyczna.genruntimeconfig.cache
+D:\Informatyka\C#\srednia_arytmetyczna\1_srednia_arytmetyczna\obj\Debug\net7.0\ref\1_srednia_arytmetyczna.dll

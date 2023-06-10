@@ -1,0 +1,15 @@
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\bin\Debug\net7.0\4_ulamki.exe
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\bin\Debug\net7.0\4_ulamki.deps.json
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\bin\Debug\net7.0\4_ulamki.runtimeconfig.json
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\bin\Debug\net7.0\4_ulamki.dll
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\bin\Debug\net7.0\4_ulamki.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\obj\Debug\net7.0\4_ulamki.csproj.AssemblyReference.cache
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\obj\Debug\net7.0\4_ulamki.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\obj\Debug\net7.0\4_ulamki.AssemblyInfoInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\obj\Debug\net7.0\4_ulamki.AssemblyInfo.cs
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\obj\Debug\net7.0\4_ulamki.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\obj\Debug\net7.0\4_ulamki.dll
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\obj\Debug\net7.0\refint\4_ulamki.dll
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\obj\Debug\net7.0\4_ulamki.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\obj\Debug\net7.0\4_ulamki.genruntimeconfig.cache
+D:\Informatyka\C#\srednia_arytmetyczna\4_ulamki\obj\Debug\net7.0\ref\4_ulamki.dll

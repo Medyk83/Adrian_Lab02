@@ -1,0 +1,15 @@
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\bin\Debug\net7.0\7_czy_w_kole.exe
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\bin\Debug\net7.0\7_czy_w_kole.deps.json
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\bin\Debug\net7.0\7_czy_w_kole.runtimeconfig.json
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\bin\Debug\net7.0\7_czy_w_kole.dll
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\bin\Debug\net7.0\7_czy_w_kole.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\obj\Debug\net7.0\7_czy_w_kole.csproj.AssemblyReference.cache
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\obj\Debug\net7.0\7_czy_w_kole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\obj\Debug\net7.0\7_czy_w_kole.AssemblyInfoInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\obj\Debug\net7.0\7_czy_w_kole.AssemblyInfo.cs
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\obj\Debug\net7.0\7_czy_w_kole.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\obj\Debug\net7.0\7_czy_w_kole.dll
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\obj\Debug\net7.0\refint\7_czy_w_kole.dll
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\obj\Debug\net7.0\7_czy_w_kole.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\obj\Debug\net7.0\7_czy_w_kole.genruntimeconfig.cache
+D:\Informatyka\C#\srednia_arytmetyczna\7_czy_w_kole\obj\Debug\net7.0\ref\7_czy_w_kole.dll

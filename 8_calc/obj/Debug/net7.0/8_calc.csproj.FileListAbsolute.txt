@@ -1,0 +1,15 @@
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\bin\Debug\net7.0\8_calc.exe
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\bin\Debug\net7.0\8_calc.deps.json
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\bin\Debug\net7.0\8_calc.runtimeconfig.json
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\bin\Debug\net7.0\8_calc.dll
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\bin\Debug\net7.0\8_calc.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\obj\Debug\net7.0\8_calc.csproj.AssemblyReference.cache
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\obj\Debug\net7.0\8_calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\obj\Debug\net7.0\8_calc.AssemblyInfoInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\obj\Debug\net7.0\8_calc.AssemblyInfo.cs
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\obj\Debug\net7.0\8_calc.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\obj\Debug\net7.0\8_calc.dll
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\obj\Debug\net7.0\refint\8_calc.dll
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\obj\Debug\net7.0\8_calc.pdb
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\obj\Debug\net7.0\8_calc.genruntimeconfig.cache
+D:\Informatyka\C#\srednia_arytmetyczna\8_calc\obj\Debug\net7.0\ref\8_calc.dll
